@@ -58,7 +58,7 @@ authors:
     bio: Research Fellow, Microsoft Research
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: deepaknaray12
 # jamesfoster:
 #    name: James Foster
 #    bio: A Man who develops software with coffee
@@ -87,7 +87,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true

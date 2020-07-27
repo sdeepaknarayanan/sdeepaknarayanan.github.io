@@ -1,7 +1,7 @@
 ---
 title: "Active Learning for Air Quality Station Deployment"
 layout: post
-date:
+date: 2020-06-17
 tag: jekyll
 image: ../assets/images/aq.png
 headerImage: true
