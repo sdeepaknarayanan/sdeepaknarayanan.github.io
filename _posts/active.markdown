@@ -1,7 +1,10 @@
 ---
 title: "Active Learning for Air Quality Station Deployment"
 layout: post
+date:
 tag: jekyll
+image: ../assets/images/aq.png
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Intelligent Sensor Placement for Effective Air Quality monitoring."
@@ -26,18 +29,3 @@ their ability to encode prior knowledge using custom kernels. We
 empirically show that our proposed approach outperforms several
 baselines.
 
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
