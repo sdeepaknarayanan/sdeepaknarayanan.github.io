@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: HIII, minimalist jekyll theme"
 layout: post
 date: 
 tag: jekyll
