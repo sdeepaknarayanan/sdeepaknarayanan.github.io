@@ -14,7 +14,7 @@ picture: assets/images/picture.png
 # and specify source (external or local).
 CV: true
 CV-external: false
-CV-url: assets/docs/Curriculum_Vitae.pdf
+CV-url: assets/files/docs/Curriculum_Vitae.pdf
 
 url: https://sdeepaknarayanan.github.io/
 # your url: https://USERNAME.github.io
