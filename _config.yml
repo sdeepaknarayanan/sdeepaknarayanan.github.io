@@ -13,8 +13,8 @@ picture: assets/images/picture.png
 # If you want to include your resume, set to true
 # and specify source (external or local).
 CV: true
-CV-external: true
-CV-url: https://google.com/?q=my+resume
+CV-external: false
+CV-url: assets/docs/Curriculum_Vitae.pdf
 
 url: https://sdeepaknarayanan.github.io/
 # your url: https://USERNAME.github.io
