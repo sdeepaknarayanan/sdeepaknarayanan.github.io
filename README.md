@@ -1,1 +1,1 @@
-Deepak's Academic Webpage
+Deepak's Webpage
